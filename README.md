@@ -2,15 +2,12 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-  - [Active Directory Home Lab](https://github.com/deairusp/LABURL)
-  -  [Hello World](https://github.com/deairusp/LABURL)
-- <h2> Certifications</h2>
-
-- [Google IT Support Proffessional](https://www.youtube.com/watch?v=a83ASGn_V_s)
+  - [Azure Virtual Machine Home Lab](https://github.com/deairusp/LABURL)
+  -  
 - 
 <h2>📺 Popular YouTube Videos</h2>
 
-- [Tutorial: Active Directory Home Lab](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Tutorial: Azure Virtual Machine](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
 
 <h2> 🤳 Connect with me:</h2>
