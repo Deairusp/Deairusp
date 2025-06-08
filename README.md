@@ -3,11 +3,11 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
   - [Azure Virtual Machine Home Lab](https://github.com/deairusp/LABURL)
-  -  
+  - [SOC Honeynet Home Lab]()
 - 
 <h2>📺 Popular YouTube Videos</h2>
 
-- [Tutorial: Azure Virtual Machine](https://www.youtube.com)
+- [Tutorial: Azure Virtual Machine]()
 
 
 <h2> 🤳 Connect with me:</h2>
