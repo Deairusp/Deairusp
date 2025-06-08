@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-  - [Azure Virtual Machine Home Lab](https://github.com/deairusp/LABURL)
+  - [Azure Virtual Machine Home Lab](https://github.com/deairusp/VMlab )
   - [SOC Honeynet Home Lab]()
 - 
 <h2>📺 Popular YouTube Videos</h2>
