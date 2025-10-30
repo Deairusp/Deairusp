@@ -8,7 +8,7 @@
 <h2>📺 Popular YouTube Videos</h2>
 
 - [Tutorial: Azure Virtual Machine](https://youtu.be/vQ-oSnmzU0o?si=Ko9Cr1ML-wBq3Bqf)
--  [Overview: SOC Honeynet Home Lab]()
+-  [Overview: SOC Honeynet Home Lab](https://youtu.be/PfGIkBWNneE?si=DiSP1zj5lTAb5ir2)
 
 
 
