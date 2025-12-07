@@ -1,5 +1,10 @@
 <h1>Hi, I'm DeAirus! <br/></h1>
 
+<h2>👨‍💻 Software Engineering Projects:</h2>
+
+  - [Flex-Box Practice Environment](https://github.com/ )
+  - [HTML/CSS Website for QueBase](https://github.com/)
+
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
   - [Azure Virtual Machine Home Lab](https://github.com/deairusp/VMlab )
@@ -7,8 +12,11 @@
 - 
 <h2>📺 Popular YouTube Videos</h2>
 
+- [Flex-Box Practice Environment](https://)
+-  [Website for QueBase](https://)
 - [Tutorial: Azure Virtual Machine](https://youtu.be/vQ-oSnmzU0o?si=Ko9Cr1ML-wBq3Bqf)
 -  [Overview: SOC Honeynet Home Lab](https://youtu.be/PfGIkBWNneE?si=DiSP1zj5lTAb5ir2)
+-  
 
 
 
