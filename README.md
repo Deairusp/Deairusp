@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Software Engineering Projects:</h2>
 
-  - [Apple Website UI](https://github.com/Deairusp/)
+  - [Apple MacBook Pro Website](https://github.com/Deairusp/MacBook_Pro_Website)
   - [Flex-Box Practice Environment](https://github.com/Deairusp/flex-box-layout)
   - [HTML/CSS Website for QueBase](https://github.com/Deairusp/Starter-Project-1)
 
